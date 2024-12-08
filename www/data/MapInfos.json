@@ -1,0 +1,23 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Overworld","order":1,"parentId":0,"scrollX":1372.8,"scrollY":1396.8},
+{"id":2,"expanded":true,"name":"sky temple","order":13,"parentId":0,"scrollX":791.2,"scrollY":474.4},
+{"id":3,"expanded":false,"name":"Mouche SHoot","order":14,"parentId":2,"scrollX":791.2,"scrollY":790.4},
+{"id":4,"expanded":true,"name":"zoo entrance","order":15,"parentId":0,"scrollX":648.8,"scrollY":790.4},
+{"id":5,"expanded":false,"name":"Zoo shop","order":16,"parentId":4,"scrollX":655.2,"scrollY":368.8},
+{"id":6,"expanded":false,"name":"Monzoo grounds","order":17,"parentId":4,"scrollX":1216.8,"scrollY":828.8},
+{"id":7,"expanded":true,"name":"Lab Room","order":18,"parentId":4,"scrollX":648.8,"scrollY":591.2},
+{"id":8,"expanded":false,"name":"Outside House","order":2,"parentId":1,"scrollX":887.2,"scrollY":597.6,"quick":false},
+{"id":9,"expanded":false,"name":"Ruins","order":3,"parentId":8,"scrollX":839.2,"scrollY":1269.6,"quick":false},
+{"id":10,"expanded":false,"name":"Market","order":4,"parentId":9,"scrollX":1092,"scrollY":614.6666666666666,"quick":false},
+{"id":11,"expanded":false,"name":"Abandoned Desert Temple","order":5,"parentId":9,"scrollX":1092,"scrollY":614.6666666666666,"quick":false},
+{"id":12,"expanded":false,"name":"Cursed Cave","order":6,"parentId":11,"scrollX":1229,"scrollY":1580,"quick":false},
+{"id":13,"expanded":true,"name":"Lab Room Level 2","order":19,"parentId":7,"scrollX":1319.2,"scrollY":933.6},
+{"id":14,"expanded":true,"name":"Small Town","order":8,"parentId":0,"scrollX":743.2,"scrollY":1077.6,"quick":false},
+{"id":15,"expanded":true,"name":"House 1","order":7,"parentId":0,"scrollX":655.2,"scrollY":368.8},
+{"id":16,"expanded":false,"name":"Forest","order":11,"parentId":0,"scrollX":1751.2,"scrollY":1077.6},
+{"id":17,"expanded":false,"name":"Intro","order":12,"parentId":0,"scrollX":655.2,"scrollY":368.8},
+{"id":18,"expanded":false,"name":"Mon-gaming","order":9,"parentId":14,"scrollX":648.8,"scrollY":591.2},
+{"id":19,"expanded":false,"name":"Pot Gallery","order":10,"parentId":14,"scrollX":648.8,"scrollY":1071.2},
+{"id":20,"expanded":false,"name":"Lab Room Level 3","order":20,"parentId":7,"scrollX":1216.5,"scrollY":679.5}
+]
